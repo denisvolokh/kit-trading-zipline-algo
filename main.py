@@ -135,4 +135,4 @@ if __name__ == '__main__':
                             identifiers=[asset])
     results = algo.run(data)
 
-    analyze(results=results, asset=asset)
+    #analyze(results=results, asset=asset)
