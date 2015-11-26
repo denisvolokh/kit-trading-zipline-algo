@@ -123,6 +123,8 @@ if __name__ == '__main__':
 
     asset = "VRX"
 
+    print "--->>> Some changes"
+
     # Set the simulation start and end dates
     start = datetime(2015, 1, 1, 0, 0, 0, 0, pytz.utc)
     end = datetime(2015, 11, 1, 0, 0, 0, 0, pytz.utc)
